@@ -34,6 +34,7 @@ A curated list of tools related to notebooklm as well as examples of great podca
 - [Open Notebooklm](https://github.com/gabrielchua/open-notebooklm) - Convert any PDF into a podcast episode!
 - [Zenmic](https://zenmic.com) - AI Podcast Generator.
 - [Jellypod AI](https://jellypod.ai/) - Create on-brand, AI podcasts in minutes.
+- [CustomPod](https://custompod.io) - Get a personalized daily briefing in podcast form from updates in your world.
 
 <!-- END CONTENT -->
 

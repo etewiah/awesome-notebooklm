@@ -23,6 +23,7 @@ A curated list of tools related to notebooklm as well as examples of great podca
 ## Contents
 
 - [Podcast creation alternatives](#podcast-creation-alternatives)
+- [Data preparation](#data-preparation)
 - [Example content](#example-content)
 - [Community](#community)
 
@@ -36,6 +37,10 @@ A curated list of tools related to notebooklm as well as examples of great podca
 - [Jellypod AI](https://jellypod.ai/) - Create on-brand, AI podcasts in minutes.
 
 <!-- END CONTENT -->
+
+## Data preparation
+
+- [linkedin2md](https://github.com/juanmanueldaza/linkedin2md) - Convert LinkedIn data exports to Markdown for use as NotebookLM sources. Generate career-focused podcasts from your professional history.
 
 ## Example content
 
